@@ -71,5 +71,5 @@ python p2c.py
 ```
 Linux / macOS
 ```
-python3 main.py
+python3 p2c.py
 ```
