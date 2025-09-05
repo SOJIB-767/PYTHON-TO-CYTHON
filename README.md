@@ -16,7 +16,8 @@ This helps protect source code and improve performance.
 ```
 pkg update && pkg upgrade -y
 pkg install python git clang python-dev libffi-dev -y
-pip install --upgrade pip setuptools wheel cython```
+pip install --upgrade pip setuptools wheel cython
+```
 
 ### 🐧 LINUX (UBUNTU / DEBIAN)
 Update & Upgrade Packages :
