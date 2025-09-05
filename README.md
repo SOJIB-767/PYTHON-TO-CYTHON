@@ -20,6 +20,16 @@ pip install --upgrade pip setuptools wheel cython
 ```
 
 ### 🐧 LINUX (UBUNTU / DEBIAN)
-Update & Upgrade Packages :
+Update & upgrade packages :
 ```
-sudo apt update && sudo apt upgrade -y```
+sudo apt update && sudo apt upgrade -y
+```
+
+Install Rquired Dpendencies :
+```
+sudo apt install python3 python3-pip git clang python3-dev libffi-dev -y
+```
+Upgrade pip, setuptools, wheel and install Cython :
+```
+pip3 install --upgrade pip setuptools wheel cython
+```
