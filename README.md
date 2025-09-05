@@ -75,5 +75,5 @@ python3 p2c.py
 ```
 \
 \
-FORE MORE UPDATE, FOLLOW ME ON TELEGRAM\
+FOLLOW ME ON TELEGRAM\
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/RealProjukti)
