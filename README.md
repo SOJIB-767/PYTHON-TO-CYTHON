@@ -55,3 +55,21 @@ Upgrade pip, setuptools, wheel and install Cython :
 ```
 pip3 install --upgrade pip setuptools wheel cython
 ```
+
+---
+
+## 📥 CLONE THIS REPO
+```
+rm -rf PYTHON-TO-CYTHON
+git clone https://github.com/SOJIB-767/PYTHON-TO-CYTHON.git
+cd PYTHON-TO-CYTHON
+```
+### RUN TOOL
+Termux / Windows
+```
+python p2c.py
+```
+Linux / macOS
+```
+python3 main.py
+```
