@@ -2,7 +2,7 @@
 A simple tool to convert Python (`.py`) files into compiled Cython (`.so`) modules.  
 This helps protect source code and improve performance.  
 
-### Features
+### FEATURES
 - Auto strip compiled binaries (optional)  
 - Automatically delete generated `.c` files (optional)  
 - Control Python language level (default: 3)  
@@ -10,7 +10,7 @@ This helps protect source code and improve performance.
 
 ---
 
-## 🚀 Installation (Termux)
+## **🚀 INSTALLATION (TERMUX)**
 
 ```bash
 pkg update && pkg upgrade -y
