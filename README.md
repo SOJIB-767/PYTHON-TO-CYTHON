@@ -33,3 +33,11 @@ Upgrade pip, setuptools, wheel and install Cython :
 ```
 pip3 install --upgrade pip setuptools wheel cython
 ```
+
+### 🪟 WINDOWS
+- Download and install Python 3.12+ from python.org.
+(Make sure to tick ✅ "Add Python to PATH" during installation).
+- Open Command Prompt or PowerShell and run :
+```
+pip install --upgrade pip setuptools wheel cython
+```
