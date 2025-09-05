@@ -1,9 +1,5 @@
-.
-
----
-
 ## **📌 About**
-A simple Termux tool to convert Python (`.py`) files into compiled Cython (`.so`) modules.  
+A simple tool to convert Python (`.py`) files into compiled Cython (`.so`) modules.  
 This helps protect source code and improve performance.  
 
 ### Features
