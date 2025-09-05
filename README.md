@@ -12,14 +12,14 @@ This helps protect source code and improve performance.
 
 ## **🚀 INSTALLATION**
 
-### 📱 TERMUX
+### 📱 Termux
 ```
 pkg update && pkg upgrade -y
 pkg install python git clang python-dev libffi-dev -y
 pip install --upgrade pip setuptools wheel cython
 ```
 
-### 🐧 LINUX (UBUNTU / DEBIAN)
+### 🐧 Linux (Ubuntu / Debian)
 Update & upgrade packages :
 ```
 sudo apt update && sudo apt upgrade -y
@@ -34,10 +34,24 @@ Upgrade pip, setuptools, wheel and install Cython :
 pip3 install --upgrade pip setuptools wheel cython
 ```
 
-### 🪟 WINDOWS
+### 🪟 Windows
 - Download and install Python 3.12+ from [python.org](https://www.python.org/downloads/).
 (Make sure to tick ✅ "Add Python to PATH" during installation).
 - Open Command Prompt or PowerShell and run :
 ```
 pip install --upgrade pip setuptools wheel cython
+```
+
+### 🍏 macOS
+Update & upgrade Homebrew (if installed) :
+```
+brew update && brew upgrade
+```
+Install required dependencies :
+```
+brew install python git llvm libffi
+```
+Upgrade pip, setuptools, wheel and install Cython :
+```
+pip3 install --upgrade pip setuptools wheel cython
 ```
