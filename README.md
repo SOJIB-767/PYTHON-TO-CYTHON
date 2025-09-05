@@ -3,7 +3,6 @@ A simple Termux tool to convert Python (.py) files into compiled Cython (.so) mo
 
 # PYTHON TO CYTHON
 
-```text
 ..######...#######........##.####.########.
 .##....##.##.....##.......##..##..##.....##
 .##.......##.....##.......##..##..##.....##
